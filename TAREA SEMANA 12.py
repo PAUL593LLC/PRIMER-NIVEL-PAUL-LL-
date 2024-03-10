@@ -5,116 +5,116 @@
 temperaturas = [
     [    # Ciudad 1
         [    # Semana 1
-            {"día": "Lunes", "temperatura": 25},
-            {"día": "Martes", "temperatura": 34},
-            {"día": "Miércoles", "temperatura": 30},
-            {"día": "Jueves", "temperatura": 14},
+            {"día": "Lunes", "temperatura": 29},
+            {"día": "Martes", "temperatura": 24},
+            {"día": "Miércoles", "temperatura": 32},
+            {"día": "Jueves", "temperatura": 24},
             {"día": "Viernes", "temperatura": 18},
-            {"día": "Sábado", "temperatura": 26},
-            {"día": "Domingo", "temperatura": 24}
+            {"día": "Sábado", "temperatura": 16},
+            {"día": "Domingo", "temperatura": 14}
         ],
         [    # Semana 2
-            {"día": "Lunes", "temperatura": 76},
-            {"día": "Martes", "temperatura": 79},
-            {"día": "Miércoles", "temperatura": 83},
-            {"día": "Jueves", "temperatura": 81},
-            {"día": "Viernes", "temperatura": 87},
-            {"día": "Sábado", "temperatura": 89},
-            {"día": "Domingo", "temperatura": 93}
+            {"día": "Lunes", "temperatura": 26},
+            {"día": "Martes", "temperatura": 19},
+            {"día": "Miércoles", "temperatura": 23},
+            {"día": "Jueves", "temperatura": 21},
+            {"día": "Viernes", "temperatura": 37},
+            {"día": "Sábado", "temperatura": 29},
+            {"día": "Domingo", "temperatura": 33}
         ],
         [    # Semana 3
-            {"día": "Lunes", "temperatura": 77},
-            {"día": "Martes", "temperatura": 81},
-            {"día": "Miércoles", "temperatura": 85},
-            {"día": "Jueves", "temperatura": 82},
-            {"día": "Viernes", "temperatura": 88},
-            {"día": "Sábado", "temperatura": 91},
-            {"día": "Domingo", "temperatura": 95}
+            {"día": "Lunes", "temperatura": 27},
+            {"día": "Martes", "temperatura": 31},
+            {"día": "Miércoles", "temperatura": 35},
+            {"día": "Jueves", "temperatura": 22},
+            {"día": "Viernes", "temperatura": 28},
+            {"día": "Sábado", "temperatura": 31},
+            {"día": "Domingo", "temperatura": 25}
         ],
         [    # Semana 4
-            {"día": "Lunes", "temperatura": 75},
-            {"día": "Martes", "temperatura": 78},
-            {"día": "Miércoles", "temperatura": 80},
-            {"día": "Jueves", "temperatura": 79},
-            {"día": "Viernes", "temperatura": 84},
-            {"día": "Sábado", "temperatura": 87},
-            {"día": "Domingo", "temperatura": 91}
+            {"día": "Lunes", "temperatura": 25},
+            {"día": "Martes", "temperatura": 18},
+            {"día": "Miércoles", "temperatura": 20},
+            {"día": "Jueves", "temperatura": 39},
+            {"día": "Viernes", "temperatura": 14},
+            {"día": "Sábado", "temperatura": 27},
+            {"día": "Domingo", "temperatura": 21}
         ]
     ],
     [    # Ciudad 2
         [    # Semana 1
-            {"día": "Lunes", "temperatura": 62},
-            {"día": "Martes", "temperatura": 64},
-            {"día": "Miércoles", "temperatura": 68},
-            {"día": "Jueves", "temperatura": 70},
-            {"día": "Viernes", "temperatura": 73},
-            {"día": "Sábado", "temperatura": 75},
-            {"día": "Domingo", "temperatura": 79}
+            {"día": "Lunes", "temperatura": 22},
+            {"día": "Martes", "temperatura": 24},
+            {"día": "Miércoles", "temperatura": 28},
+            {"día": "Jueves", "temperatura": 20},
+            {"día": "Viernes", "temperatura": 23},
+            {"día": "Sábado", "temperatura": 25},
+            {"día": "Domingo", "temperatura": 29}
         ],
         [    # Semana 2
-            {"día": "Lunes", "temperatura": 63},
-            {"día": "Martes", "temperatura": 66},
-            {"día": "Miércoles", "temperatura": 70},
-            {"día": "Jueves", "temperatura": 72},
-            {"día": "Viernes", "temperatura": 75},
-            {"día": "Sábado", "temperatura": 77},
-            {"día": "Domingo", "temperatura": 81}
+            {"día": "Lunes", "temperatura": 33},
+            {"día": "Martes", "temperatura": 36},
+            {"día": "Miércoles", "temperatura": 20},
+            {"día": "Jueves", "temperatura": 32},
+            {"día": "Viernes", "temperatura": 35},
+            {"día": "Sábado", "temperatura": 27},
+            {"día": "Domingo", "temperatura": 31}
         ],
         [    # Semana 3
-            {"día": "Lunes", "temperatura": 61},
-            {"día": "Martes", "temperatura": 65},
-            {"día": "Miércoles", "temperatura": 68},
-            {"día": "Jueves", "temperatura": 70},
-            {"día": "Viernes", "temperatura": 72},
-            {"día": "Sábado", "temperatura": 76},
-            {"día": "Domingo", "temperatura": 80}
+            {"día": "Lunes", "temperatura": 31},
+            {"día": "Martes", "temperatura": 35},
+            {"día": "Miércoles", "temperatura": 38},
+            {"día": "Jueves", "temperatura": 20},
+            {"día": "Viernes", "temperatura": 22},
+            {"día": "Sábado", "temperatura": 26},
+            {"día": "Domingo", "temperatura": 30}
         ],
         [    # Semana 4
-            {"día": "Lunes", "temperatura": 64},
-            {"día": "Martes", "temperatura": 67},
-            {"día": "Miércoles", "temperatura": 69},
-            {"día": "Jueves", "temperatura": 71},
-            {"día": "Viernes", "temperatura": 74},
-            {"día": "Sábado", "temperatura": 77},
-            {"día": "Domingo", "temperatura": 80}
+            {"día": "Lunes", "temperatura": 24},
+            {"día": "Martes", "temperatura": 27},
+            {"día": "Miércoles", "temperatura": 39},
+            {"día": "Jueves", "temperatura": 21},
+            {"día": "Viernes", "temperatura": 24},
+            {"día": "Sábado", "temperatura": 27},
+            {"día": "Domingo", "temperatura": 30}
         ]
     ],
     [    # Ciudad 3
         [    # Semana 1
-            {"día": "Lunes", "temperatura": 90},
-            {"día": "Martes", "temperatura": 92},
-            {"día": "Miércoles", "temperatura": 94},
-            {"día": "Jueves", "temperatura": 91},
-            {"día": "Viernes", "temperatura": 88},
-            {"día": "Sábado", "temperatura": 85},
-            {"día": "Domingo", "temperatura": 82}
+            {"día": "Lunes", "temperatura": 20},
+            {"día": "Martes", "temperatura": 32},
+            {"día": "Miércoles", "temperatura": 34},
+            {"día": "Jueves", "temperatura": 21},
+            {"día": "Viernes", "temperatura": 38},
+            {"día": "Sábado", "temperatura": 25},
+            {"día": "Domingo", "temperatura": 12}
         ],
         [    # Semana 2
-            {"día": "Lunes", "temperatura": 89},
-            {"día": "Martes", "temperatura": 91},
-            {"día": "Miércoles", "temperatura": 93},
-            {"día": "Jueves", "temperatura": 90},
-            {"día": "Viernes", "temperatura": 87},
-            {"día": "Sábado", "temperatura": 84},
-            {"día": "Domingo", "temperatura": 81}
+            {"día": "Lunes", "temperatura": 29},
+            {"día": "Martes", "temperatura": 21},
+            {"día": "Miércoles", "temperatura": 33},
+            {"día": "Jueves", "temperatura": 30},
+            {"día": "Viernes", "temperatura": 27},
+            {"día": "Sábado", "temperatura": 34},
+            {"día": "Domingo", "temperatura": 21}
         ],
         [    # Semana 3
-            {"día": "Lunes", "temperatura": 91},
-            {"día": "Martes", "temperatura": 93},
-            {"día": "Miércoles", "temperatura": 95},
-            {"día": "Jueves", "temperatura": 92},
-            {"día": "Viernes", "temperatura": 89},
-            {"día": "Sábado", "temperatura": 86},
-            {"día": "Domingo", "temperatura": 83}
+            {"día": "Lunes", "temperatura": 21},
+            {"día": "Martes", "temperatura": 1},
+            {"día": "Miércoles", "temperatura": 35},
+            {"día": "Jueves", "temperatura": 22},
+            {"día": "Viernes", "temperatura": 19},
+            {"día": "Sábado", "temperatura": 16},
+            {"día": "Domingo", "temperatura": 23}
         ],
         [    # Semana 4
-            {"día": "Lunes", "temperatura": 88},
-            {"día": "Martes", "temperatura": 90},
-            {"día": "Miércoles", "temperatura": 92},
-            {"día": "Jueves", "temperatura": 89},
-            {"día": "Viernes", "temperatura": 86},
-            {"día": "Sábado", "temperatura": 83},
-            {"día": "Domingo", "temperatura": 80}
+            {"día": "Lunes", "temperatura": 28},
+            {"día": "Martes", "temperatura": 30},
+            {"día": "Miércoles", "temperatura": 32},
+            {"día": "Jueves", "temperatura": 39},
+            {"día": "Viernes", "temperatura": 26},
+            {"día": "Sábado", "temperatura": 33},
+            {"día": "Domingo", "temperatura": 10}
         ]
     ]
 ]
