@@ -1,14 +1,16 @@
+"""
+Calcula el descuento a aplicar a un monto de compra.
+
+Parámetros:
+  monto_compra (float): El monto total de la compra.
+  porcentaje_descuento (float): El porcentaje de descuento a aplicar (por defecto 10%).
+
+Retorno:
+  float: El monto del descuento calculado.
+"""
+
 def calcular_descuento(monto_compra, porcentaje_descuento=10):
-    """
-    Calcula el descuento a aplicar a un monto de compra.
 
-    Parámetros:
-      monto_compra (float): El monto total de la compra.
-      porcentaje_descuento (float): El porcentaje de descuento a aplicar (por defecto 10%).
-
-    Retorno:
-      float: El monto del descuento calculado.
-    """
     descuento = monto_compra * porcentaje_descuento / 100
     return descuento
 
