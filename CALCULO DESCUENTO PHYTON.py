@@ -23,15 +23,5 @@ print(f"Descuento aplicado: {calcular_descuento.__defaults__[0]}%")  # Accedemos
 print(f"Monto del descuento: ${descuento}")
 print(f"Monto final a pagar: ${monto_final}")
 
-# Ejemplo de uso 2
-monto_compra = 200
-porcentaje_descuento = 20
-descuento = calcular_descuento(monto_compra, porcentaje_descuento)
-monto_final = monto_compra - descuento
 
-print(f"\n**Ejemplo 2**")
-print(f"Monto de la compra: ${monto_compra}")
-print(f"Descuento aplicado: {porcentaje_descuento}%")
-print(f"Monto del descuento: ${descuento}")
-print(f"Monto final a pagar: ${monto_final}")
 
