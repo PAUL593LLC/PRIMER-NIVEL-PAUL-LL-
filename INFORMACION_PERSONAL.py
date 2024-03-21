@@ -1,4 +1,5 @@
 # Diccionario con Información Personal
+
 informacion_personal = {"Nombre": "Dahere Daladier Llerena","Edad": 24,"Ciudad": "Cayambe",}
 # Accedemos al valor asociado a la clave "ciudad"
 ciudad_actual = informacion_personal["Ciudad"]
