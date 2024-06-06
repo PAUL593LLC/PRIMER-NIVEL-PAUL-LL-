@@ -134,7 +134,7 @@ for ciudad in temperaturas:
         suma = 0
         for dia in semana:
             suma += dia['temperatura']
-        promedio = calcular_promedio(suma, len(semana))
+        promedio = calcular_promedio(suma, len(semaa))
         suma_promedio += promedio
         print(f'El promedio semana No. {no_semana} es: {promedio}')
     promedio_ciudad = calcular_promedio(suma_promedio, len(ciudad))
