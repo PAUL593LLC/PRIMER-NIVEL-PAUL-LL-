@@ -14,9 +14,9 @@ class AgendaApp(tk.Tk):
 
         # Treeview para mostrar los eventos
         self.tree = ttk.Treeview(self.frame_eventos, columns=("fecha", "hora", "descripcion"), show="headings")
-        self.tree.heading("fecha", text="Fecha")
-        self.tree.heading("hora", text="Hora")
-        self.tree.heading("descripcion", text="Descripción")
+        self.tree.heading("fecha", text="FECHA")
+        self.tree.heading("hora", text="HORA")
+        self.tree.heading("descripcion", text="DESCRIPCIÓN")
         self.tree.column("fecha", width=100)
         self.tree.column("hora", width=100)
         self.tree.column("descripcion", width=300)
